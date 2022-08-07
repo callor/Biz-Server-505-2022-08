@@ -1,4 +1,4 @@
-package com.callor.todo.controller.model;
+package com.callor.todo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
